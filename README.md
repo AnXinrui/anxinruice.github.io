@@ -1,14 +1,12 @@
 
 [leopard](http://leopardpan.cn) 是一个简洁的博客模板，响应式主题， 适配了电脑、手机各种屏幕，看效果直接点击下面链接
- 
+
  * [博客链接](http://leopardpan.cn) （部署在国内，访问更快）         
  * [Demo链接](http://leopardpan.github.io/) （部署在github page）         
 
 如果你喜欢请 Star ，你的 Star 是我持续更新的动力, 谢谢 😄.
- 
-### 你在搭建个人博客遇到任何问题都可以找我
 
-遇到解决不了的问题 [需要技术支持联系我](http://leopardpan.cn/support/)
+
 
 
 ### 环境要求
@@ -57,59 +55,5 @@
 搭建博客如果遇到问题可以看看我教程[Jekyll搭建个人博客](http://leopardpan.cn/2016/10/jekyll_tutorials1/)。
 
 
-### 赞助
-
-你可以通过下方二维码赞助本项目，资金将用于服务器开销以及今后的公共服务
-
-感谢所有赞助过本项目的朋友，你们都为本项目贡献了自己的一份力量
-
-<details>
-
-<summary>微信二维码</summary>
-<img width="300" src="http://leopardpan.github.io/images/payimg/weipayimg.jpg" alt="wechat">
-</details>
-
-<details>
-
-<summary>支付宝二维码</summary>
-<img width="300" src="http://leopardpan.github.io/images/payimg/alipayim.jpg" alt="alipay">
-</details>
-
-
-### 效果预览
-
-#### 头像效果
-
-![](http://leopardpan.github.io/images/readme/icon.gif)
-
-如果你只想要我博客里的头像效果，你只需要拿 leopardpan.github.io/_includes/side-panel.html 文件里面 `头像效果` 和 leopardpan.github.io/css/main.css 里面最后面 `头像效果` 部分就行了。
-
-
-***
-
-#### 博客首页   
-
-![](http://leopardpan.github.io//images/readme/img4.png)   
-
-***  
-
-#### 每篇文章下面都支持打赏   
-
-![](http://leopardpan.github.io/images/readme/img3.png)
-
-#### 文章详情   
-
-![](http://leopardpan.github.io/images/readme/img1.png)
-
-
-#### 文章支持标签分类 
-
-![](http://leopardpan.github.io/images/readme/img2.png)
-
-#### 手机端效果
-
-<img width="300" src="http://leopardpan.github.io/images/readme/img5.png" alt="wechat">
-
-#### 感谢   
 
 本博客在[Vno Jekyll](https://github.com/onevcat/vno-jekyll)基础上修改的。  

@@ -1,11 +1,11 @@
 # Basic
 title: 安欣锐
-subtitle: 个人站
-description: Let us study together~
+subtitle: Welcome to my personal blog~
+description: If you're going through hell, keep going!
 # 头像里面的标题
-avatarTitle: strength
+avatarTitle: Serendipity
 # 头像里面的描述
-avatarDesc: 共同学习，共同进步
+avatarDesc: 和光同尘，与时舒卷
 url: "https://anxinrui.github.io/anblog.github.io/"
 
 # 博客是否自动生成目录，false为不生成
@@ -30,8 +30,8 @@ social:
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
-#baidu:
-    #id: 8ba1c6be0953b6f9c2ba38e57f615421  
+baidu:
+    id: 48f57f2a2f20ce67aeda6df9fc1cddfe
 
 
 
@@ -64,7 +64,7 @@ nav:
     - {title: 所有文章, description: archive, url: '/archive'}   
     - {title: 标签, description: tags, url: '/tags'}      
     - {title: 技术支持, description: support, url: '/support'}      
-    - {title: 关于我, description: about, url: '/about'}   
+    - {title: 关于安同学, description: about, url: '/about'}   
     
 
 # Pagination
