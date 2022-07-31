@@ -14,11 +14,11 @@ title: 技术支持
 2. 检查有无NVIDIA GPU
 
    - 在`cmd/terminal中`输入`nvidia-smi`（Linux和Win命令一样）、使用NVIDIA控制面板或者使用任务管理器查看自己是否有NVIDIA的独立显卡及其型号）
-   - 看下版本号，看自己可以兼容的CUDA版本，等会安装Pytorch时是可以向下兼容的（本人11.6）![适配表](C:\use\E\桌面\annn\leopardpan.github.io-master\images\support\适配表.png)
+   - 看下版本号，看自己可以兼容的CUDA版本，等会安装Pytorch时是可以向下兼容的（本人11.6）![shipei](C:\use\E\桌面\annn\leopardpan.github.io-master\images\support\01.png)
 
 3. PyTorch的安装
 
-   - 登录官网[Pytorch官网](https://pytorch.org/)，点击Install按钮，进入相关界面![image-20220730092126708](C:\use\E\桌面\annn\leopardpan.github.io-master\images\support\image-20220730092126708.png )
+   - 登录官网[Pytorch官网](https://pytorch.org/)，点击Install按钮，进入相关界面![image-20220730092126708](C:\use\E\桌面\annn\leopardpan.github.io-master\images\support\02.png )
 
    - 复制 ` run this command `,在Anaconda虚拟环境中输入指令
 
